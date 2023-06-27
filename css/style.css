@@ -33,7 +33,7 @@
 }
 
 #board{
-    background: linear-gradient(rgb(201, 117, 243), rgb(226, 10, 250));
+    background: linear-gradient(rgb(9, 117, 8), rgb(226, 10, 250));
     width: 90vmin;
     height: 92vmin;
     border: 2px solid black;
