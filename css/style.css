@@ -33,7 +33,7 @@
 }
 
 #board{
-    background: red;
+    background: linear-gradient(rgb(4, 247, 251), rgb(111, 249, 19));
     width: 90vmin;
     height: 92vmin;
     border: 2px solid black;
@@ -44,19 +44,19 @@
 
 .head{
     background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
-    border: 2px solid rgb(34, 4, 34); 
+    border: 2px solid rgb(255, 255, 255); 
     transform: scale(1.02);
     border-radius: 9px;
 }
 
 .snake{
-    background-color: blue;
-    border: .25vmin solid rgb(9, 9, 9);
+    background-color:linear-gradient(rgb(138, 203, 249), rgb(248, 248, 155));
+    border: .25vmin solid rgb(254, 253, 253);
     border-radius: 12px;
 }
 
 .food{
-    background: green;
+    background: rgb(205, 251, 23);
     border: .25vmin solid black;
     border-radius: 8px;
 }
